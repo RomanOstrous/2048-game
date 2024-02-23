@@ -1,7 +1,7 @@
 # 2048 game
 
 ## General info
-  ### The 2048 game project successfully replicates the functionality of the original game while introducing a custom design crafted with modern web development technologies including HTML, SCSS, and JavaScript.
+  The 2048 game project successfully replicates the functionality of the original game while introducing a custom design crafted with modern web development technologies including HTML, SCSS, and JavaScript.
 
 ##  The project repeats the functionality of the original game:
   # [2048](https://play2048.co/).
