@@ -7,7 +7,7 @@
   # [2048](https://play2048.co/).
 
 ##  Link to the finished project:
-  # [DEMO LINK](https://RomanOstrous.github.io/js_2048_game/)
+  # [DEMO LINK](https://romanostrous.github.io/2048-game/)
 
 ## Technologies
   The following technologies were used to build this project:
